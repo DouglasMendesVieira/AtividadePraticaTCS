@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABcVW0PfOMEGLvXOsZq510wAAAAACAAAAAAAQZgAAAAEAACAAAADFjg81JVAzSwTfwAcNhVP7qqv2n6ycBjRPKaVU1Gpf+gAAAAAOgAAAAAIAACAAAADA0cfMYMMHqpcbAIKtJQlp+u18iKioKufU4X1r2CH7WVAAAABJaR3ZQKGO3Xde+K2B/m9wIzWUlqE2WNAklxnNj2kn7t7US9a6KCfzPmfpnA9ffzuXoHBpl683v/oDLEPy66c7EMlERJcrlDQdDC2S5OngyUAAAABKMZSyrUQN0DGEi6h1P9LtQxI3qxSkvXa2VVjFpfuSNsSQNNQHxkHohoyUPUGhDMxz/yB+InE//uRcdEDRlkTE</EncryptedPassword>
+    <History>True|2022-03-03T21:43:26.1310119Z;True|2022-03-03T18:41:00.7451905-03:00;False|2022-03-03T18:38:07.9177221-03:00;False|2022-03-03T18:37:57.8827860-03:00;False|2022-03-03T18:37:19.6157359-03:00;True|2022-03-03T17:28:16.3486148-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AtividadePraticaTCSContext">
+      <Value>server=tcs.cjil19ypquk6.us-east-1.rds.amazonaws.com%3buser=root%3bpassword=douglas9k4knj%3bdatabase=tcs</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
